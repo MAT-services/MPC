@@ -5,6 +5,7 @@ body {
 .separator {
     border-radius: 10px;
     background-size: cover;
+    background-image:url('/MPC/assets/separator.png');
 }
 .title {
     background-image: url(/MPC/assets/BC.jpg);
